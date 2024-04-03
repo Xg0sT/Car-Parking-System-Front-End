@@ -1,0 +1,36 @@
+/* .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:#ebebeb;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+}
+
+.content img{
+    width: 50dvh;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn button{
+    margin-top: 500px;
+    margin-left: -140px;
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 39px;
+    justify-content: center;
+    
+}
+
+button:hover{
+    cursor: pointer;
+    color: #ebebeb;
+} */
